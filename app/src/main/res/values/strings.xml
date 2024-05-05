@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Data Pasien Hewan</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="tambah_pasien">Tambah Pasien</string>
+    <string name="namaHewan">Nama Hewan</string>
+    <string name="jenisHewan">Jenis Hewan</string>
+    <string name="jenisKelamin">Jenis Kelamin</string>
+    <string name="umurHewan">Umur Hewan</string>
+    <string name="namaPemilik">Nama Pemilik</string>
+    <string name="noTelp">Nomor Telpon</string>
+    <string name="alamat">Alamat</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_pasien">Ubah Pasien</string>
+    <string name="invalid">data tidak boleh kosong.</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="hapus">Hapus data</string>
+    <string name="pesan_hapus">Hapus data ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampil list</string>
+    <string name="grid">Tampil grid</string>
+</resources>
